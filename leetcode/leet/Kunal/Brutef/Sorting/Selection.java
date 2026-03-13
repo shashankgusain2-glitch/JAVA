@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 public class Selection {
     public static void main(String[] args) {
-        int[] arr = {5, 4, 1, 3, 2};
+        int[] arr = {5, 4, 1, 3,19,5,4,5,7,8,9,6 ,7,56,2};
         Solution(arr);
         System.out.println(Arrays.toString(arr));
     }
